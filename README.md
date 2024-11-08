@@ -1,3 +1,19 @@
+>[!NOTE]
+>Esto es una nota..
+
+>[!TIP]
+>Esto es un tip..
+
+>[!IMPORTANT]
+>Esto es un tip..
+
+>[!WARNING]
+>Esto es una advertencia..
+
+>[!CAUTION]
+>Esto es una precaución..
+
+
 # NB Tech Support provide  Steps to  depoly the files and complete the task
 # Check this blog https://www.nbtechsupport.co.in
 # Go through Youtube Channel for Devops & Linux Task [**link to Youtube Task!**](https://www.youtube.com/channel/UCgrAoSs9Xl94UZjAwuznfWQ?sub_confirmation=1) 
